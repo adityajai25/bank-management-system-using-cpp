@@ -278,7 +278,7 @@ void deposit_withdraw(int n, int option)
 void intro()
 {
 	cout<<"\n\n\n\t  BANK MANAGEMENT SYSTEM";
-	cout<<"\n\n\n\nMADE BY : SHAIK KARISHMA, AKSHITHA D, GAYATHRI S";
+// 	cout<<"\n\n\n\nMADE BY ;
 	cin.get();
 }
 int main()
